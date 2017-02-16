@@ -1,0 +1,28 @@
+c:\users\student\documents\visual studio 2012\Projects\MySolution\DAL\bin\Debug\DAL.dll
+c:\users\student\documents\visual studio 2012\Projects\MySolution\DAL\bin\Debug\DAL.pdb
+c:\users\student\documents\visual studio 2012\Projects\MySolution\DAL\bin\Debug\Model.dll
+c:\users\student\documents\visual studio 2012\Projects\MySolution\DAL\bin\Debug\Model.pdb
+c:\users\student\documents\visual studio 2012\Projects\MySolution\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\MySolution\DAL\obj\Debug\DAL.dll
+c:\users\student\documents\visual studio 2012\Projects\MySolution\DAL\obj\Debug\DAL.pdb
+E:\徐强法(三层架构)\DAL\bin\Debug\DAL.dll
+E:\徐强法(三层架构)\DAL\bin\Debug\DAL.pdb
+E:\徐强法(三层架构)\DAL\bin\Debug\Model.dll
+E:\徐强法(三层架构)\DAL\bin\Debug\Model.pdb
+E:\徐强法(三层架构)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\徐强法(三层架构)\DAL\obj\Debug\DAL.dll
+E:\徐强法(三层架构)\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\obj\Debug\DAL.pdb
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\bin\Debug\DAL.dll
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\bin\Debug\DAL.pdb
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\bin\Debug\Model.dll
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\bin\Debug\Model.pdb
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\obj\Debug\DAL.dll
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\DAL\obj\Debug\DAL.pdb

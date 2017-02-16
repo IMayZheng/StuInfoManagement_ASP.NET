@@ -1,0 +1,36 @@
+c:\users\student\documents\visual studio 2012\Projects\MySolution\BLL\bin\Debug\BLL.dll
+c:\users\student\documents\visual studio 2012\Projects\MySolution\BLL\bin\Debug\BLL.pdb
+c:\users\student\documents\visual studio 2012\Projects\MySolution\BLL\bin\Debug\DAL.dll
+c:\users\student\documents\visual studio 2012\Projects\MySolution\BLL\bin\Debug\Model.dll
+c:\users\student\documents\visual studio 2012\Projects\MySolution\BLL\bin\Debug\DAL.pdb
+c:\users\student\documents\visual studio 2012\Projects\MySolution\BLL\bin\Debug\Model.pdb
+c:\users\student\documents\visual studio 2012\Projects\MySolution\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\MySolution\BLL\obj\Debug\BLL.dll
+c:\users\student\documents\visual studio 2012\Projects\MySolution\BLL\obj\Debug\BLL.pdb
+E:\徐强法(三层架构)\BLL\bin\Debug\BLL.dll
+E:\徐强法(三层架构)\BLL\bin\Debug\BLL.pdb
+E:\徐强法(三层架构)\BLL\bin\Debug\DAL.dll
+E:\徐强法(三层架构)\BLL\bin\Debug\Model.dll
+E:\徐强法(三层架构)\BLL\bin\Debug\DAL.pdb
+E:\徐强法(三层架构)\BLL\bin\Debug\Model.pdb
+E:\徐强法(三层架构)\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\徐强法(三层架构)\BLL\obj\Debug\BLL.dll
+E:\徐强法(三层架构)\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\obj\Debug\BLL.pdb
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\bin\Debug\BLL.dll
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\bin\Debug\BLL.pdb
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\bin\Debug\DAL.dll
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\bin\Debug\Model.dll
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\bin\Debug\DAL.pdb
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\bin\Debug\Model.pdb
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\obj\Debug\BLL.dll
+E:\ASP.NET\130801328周宇\周宇\zym\徐强法(三层架构)\BLL\obj\Debug\BLL.pdb

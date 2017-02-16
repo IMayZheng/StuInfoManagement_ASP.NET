@@ -1,0 +1,37 @@
+﻿/*基本信息*/
+body
+{margin:0;padding:0;line-height:1.7em;letter-spacing:1px;font-family:Tahoma, Georgia,sans-serif; font-size:11px;
+ color: #666;background:#ffffff repeat-x top;
+}
+/*页面层容器*/
+#Container
+{
+    width:100%
+}
+/*页面头部*/
+#Header
+{
+    width:800px;margin:0 auto;height:200px;background:#ffcc99 url('E:\徐强法(三层架构)\web\images\the_lighthouse_project.jpg');
+}
+/*页面主体*/
+#PagebBody
+{
+    width:730px;margin:8px auto;
+}
+#SideBar
+{
+    width:160px;text-align:left;float:left;clear:left;overflow:hidden;border:1px solid #E00;height:200px;
+}
+#MainBody
+{
+    width:570px;text-align:left;float:right;clear:right;overflow:hidden;border:1px solid #E00;height:200px
+}
+/*页面底部*/
+#Footer
+{
+    clear:both;width:970px;margin:0 auto;padding:40px 10px;color:#666;
+}
+    #Footer a
+    {
+        color:#000000;
+    }

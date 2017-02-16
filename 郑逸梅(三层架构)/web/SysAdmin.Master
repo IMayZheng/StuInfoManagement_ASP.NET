@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SysAdmin.master.cs" Inherits="web.SysAdmin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="Styles/SysAdminCss.css" rel="stylesheet" type="text/css" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="container"> <!--页面层容器 -->
+        <div id="Header"> <!--面头部分 --> </div>
+            <div id="PageBody"> <!--页面主体 -->
+                <div id="Sidebar"> <!--侧边栏 --> </div>
+                    <div id="MainBody"> <!--主体内容 -->
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+                </div>
+        <div id="Footer"><!--页面底部--></div>
+        </div>
+    </form>
+</body>
+</html>
